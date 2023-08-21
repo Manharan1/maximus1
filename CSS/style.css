@@ -57,7 +57,7 @@
 
  .banner{
     padding: 125px;
-    background-image: url("/IMAGES/banner.png");
+    background-image: url("banner.png");
     text-align: center;
     color: white;
     position: relative;
@@ -67,7 +67,7 @@
     
  }
    .banner::after {
-        background-image: url("/IMAGES/banner_rectangle.png");
+        background-image: url("banner_rectangle.png");
         left: 0;
         content: "";
         width: 100%;
